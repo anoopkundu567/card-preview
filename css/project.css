@@ -1,8 +1,4 @@
-                                                                 body {
-                                                                    min-height: 100vh;
-                                                                    display: grid;
-                                                                    place-content: center ;
-                                                                 }                                                                   
+                                                                 
                                                                  .div-1 {
                                                                     background-color: hsl(31, 77%, 52%);
                                                                     width: 275px;
